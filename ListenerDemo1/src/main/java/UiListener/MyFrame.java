@@ -1,11 +1,11 @@
 package UiListener;
 import javax.swing.*;
 /*
-GUI的小窗口 演示监听器
+ GUI的小窗口 演示监听器
  */
 public class MyFrame extends JFrame {
     public static void main(String[] args){
-        //1.创建小窗口对象（被监听的对象）
+        //1.创建小窗口对象 （被监听的对象）
         MyFrame myFrame=new MyFrame();
         //设置窗口名称
         myFrame.setName("小窗口名称...");
