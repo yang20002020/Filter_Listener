@@ -14,7 +14,7 @@ public class MyServletContextListener implements ServletContextListener {
     //监听ServletContext对象的创建
     @Override
     public void contextInitialized(ServletContextEvent servletContextEvent) {
-        System.out.println("ServletContext对象被创建了....");
+        System.out.println("ServletContext对象被创建了.....");
     }
     //监听ServletContext对象的销毁
     @Override
