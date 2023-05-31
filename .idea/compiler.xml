@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ListenerDemo2" />
         <module name="ListenerDemo1" />
+        <module name="ListenerDemo4" />
+        <module name="ListenerDemo3" />
       </profile>
     </annotationProcessing>
   </component>
