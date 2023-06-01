@@ -1,0 +1,31 @@
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <!--监听器-->
+  <filter>
+    <filter-name>filterDemo31</filter-name>
+    <filter-class>filter.filterDemo31</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>filterDemo31</filter-name>
+    <url-pattern>/*</url-pattern><!--拦截所有的请求-->
+  </filter-mapping>
+  <!--监听器-->
+  <filter>
+    <filter-name>filterDemo32</filter-name>
+    <filter-class>filter.filterDemo32</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>filterDemo32</filter-name>
+    <url-pattern>/*</url-pattern><!--拦截所有的请求-->
+  </filter-mapping>
+  <!--监听器-->
+  <filter>
+    <filter-name>filterDemo33</filter-name>
+    <filter-class>filter.filterDemo33</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>filterDemo33</filter-name>
+    <url-pattern>/*</url-pattern><!--拦截所有的请求-->
+  </filter-mapping>
+</web-app>

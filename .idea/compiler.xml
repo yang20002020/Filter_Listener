@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ListenerDemo8" />
         <module name="ListenerDemo7" />
+        <module name="FilterDemo3" />
         <module name="ListenerDemo2" />
         <module name="ListenerDemo1" />
         <module name="ListenerDemo6" />
