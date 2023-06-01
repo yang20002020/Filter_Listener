@@ -8,6 +8,8 @@
     <file type="web" url="file://$PROJECT_DIR$/ListenerDemo4" />
     <file type="web" url="file://$PROJECT_DIR$/ListenerDemo5" />
     <file type="web" url="file://$PROJECT_DIR$/ListenerDemo6" />
+    <file type="web" url="file://$PROJECT_DIR$/ListenerDemo7" />
+    <file type="web" url="file://$PROJECT_DIR$/ListenerDemo8" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -18,6 +20,8 @@
         <option value="$PROJECT_DIR$/ListenerDemo4/pom.xml" />
         <option value="$PROJECT_DIR$/ListenerDemo5/pom.xml" />
         <option value="$PROJECT_DIR$/ListenerDemo6/pom.xml" />
+        <option value="$PROJECT_DIR$/ListenerDemo7/pom.xml" />
+        <option value="$PROJECT_DIR$/ListenerDemo8/pom.xml" />
       </list>
     </option>
   </component>
