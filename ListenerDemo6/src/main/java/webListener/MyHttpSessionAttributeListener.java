@@ -15,6 +15,6 @@ public class MyHttpSessionAttributeListener implements HttpSessionAttributeListe
 
     @Override
     public void attributeReplaced(HttpSessionBindingEvent httpSessionBindingEvent) {
-        System.out.println("向session中替换了属性");
+        System.out.println("向session中替换了属性 ");
     }
 }
