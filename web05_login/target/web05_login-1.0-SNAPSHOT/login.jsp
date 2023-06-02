@@ -7,6 +7,7 @@
 <body>
  <h1>登录页面</h1>
  <h3><font color="red">${msg}</font></h3>
+ <!--pageContext.request.contextPath 工程名-->
 <form action="${pageContext.request.contextPath}/UserServlet" method="post">
     <table border="1" width="400">
         <tr>
