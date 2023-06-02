@@ -9,6 +9,7 @@
     <file type="web" url="file://$PROJECT_DIR$/FIlterDemo4" />
     <file type="web" url="file://$PROJECT_DIR$/FilterDemo5" />
     <file type="web" url="file://$PROJECT_DIR$/FilterDemo6" />
+    <file type="web" url="file://$PROJECT_DIR$/FilterDemo7" />
     <file type="web" url="file://$PROJECT_DIR$/ListenerDemo1" />
     <file type="web" url="file://$PROJECT_DIR$/ListenerDemo2" />
     <file type="web" url="file://$PROJECT_DIR$/ListenerDemo3" />
@@ -35,6 +36,7 @@
         <option value="$PROJECT_DIR$/FIlterDemo4/pom.xml" />
         <option value="$PROJECT_DIR$/FilterDemo5/pom.xml" />
         <option value="$PROJECT_DIR$/FilterDemo6/pom.xml" />
+        <option value="$PROJECT_DIR$/FilterDemo7/pom.xml" />
       </list>
     </option>
   </component>

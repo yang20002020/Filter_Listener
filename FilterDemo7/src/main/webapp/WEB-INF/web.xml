@@ -1,0 +1,14 @@
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <filter>
+    <filter-name>filterDemo5</filter-name>
+    <filter-class>filterDemo5</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>filterDemo5</filter-name>
+    <url-pattern>/*</url-pattern>
+    <dispatcher>REQUEST</dispatcher>
+    <dispatcher>FORWARD</dispatcher>
+  </filter-mapping>
+</web-app>
