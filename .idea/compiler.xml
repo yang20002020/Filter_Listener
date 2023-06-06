@@ -10,7 +10,9 @@
         <module name="FilterDemo5" />
         <module name="FilterDemo3" />
         <module name="web05_login" />
+        <module name="web05_login_2" />
         <module name="FilterDemo7" />
+        <module name="web05_login_1" />
         <module name="ListenerDemo2" />
         <module name="ListenerDemo1" />
         <module name="ListenerDemo6" />
